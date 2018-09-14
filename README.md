@@ -1,0 +1,2 @@
+# SmartDNSDomainList
+需要特殊手段才能正常解析的域名列表
