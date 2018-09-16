@@ -19,6 +19,7 @@ facebook.net
 fbcdn.net
 fbsbx.com
 github.com
+githubusercontent.com
 gmail.com
 google.com
 googleapis.cn
