@@ -18,6 +18,7 @@ facebook.com
 facebook.net
 fbcdn.net
 fbsbx.com
+gitbooks.io
 github.com
 githubusercontent.com
 gmail.com
