@@ -9,6 +9,7 @@
 # 以尾部匹配的方式实现域名的匹配，实现类似母域名匹配的效果，例如：
 # a.com 可以匹配 a.com b.a.com c.b.a.com 等
 # 使用者应自行决定是否避免 a.com 匹配 ba.com 的异常
+accountkit.com
 akamaized.net
 amazonaws.com
 bbc.com
@@ -38,6 +39,7 @@ mastodon.social
 nytimes.com
 nyti.ms
 pinimg.com
+pinterest.com
 rfa.org
 reddit.com
 steampowered.com
