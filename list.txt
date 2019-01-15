@@ -44,6 +44,7 @@ rfa.org
 reddit.com
 steampowered.com
 steamcommunity.com
+t.co
 telegram.org
 ttvnw.net 
 tumblr.com
