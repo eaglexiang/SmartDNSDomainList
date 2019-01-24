@@ -10,6 +10,7 @@
 # a.com 可以匹配 a.com b.a.com c.b.a.com 等
 # 使用者应自行决定是否避免 a.com 匹配 ba.com 的异常
 accountkit.com
+akamaihd.net
 akamaized.net
 amazonaws.com
 bbc.com
