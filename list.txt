@@ -42,6 +42,7 @@ nytimes.com
 nyti.ms
 pinimg.com
 pinterest.com
+quora.com
 rfa.org
 reddit.com
 steampowered.com
