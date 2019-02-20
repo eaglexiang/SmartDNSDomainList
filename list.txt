@@ -15,6 +15,7 @@ akamaized.net
 amazonaws.com
 bbc.com
 bbc.co.uk
+bbc.in
 bbci.co.uk
 bing.com
 jp
