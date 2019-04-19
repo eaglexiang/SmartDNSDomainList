@@ -1,6 +1,7 @@
 baidu.com
 bdstatic.com
 bilibili.com
+dingtalk.com
 iqiyi.com
 qq.com
 weibo.com
