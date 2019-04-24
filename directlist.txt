@@ -3,6 +3,7 @@ bdstatic.com
 bilibili.com
 dingtalk.com
 iqiyi.com
+jianshu.com
 qq.com
 weibo.com
 
