@@ -4,7 +4,9 @@ bilibili.com
 dingtalk.com
 iqiyi.com
 jianshu.com
+jianshu.org
 qq.com
+taobao.org
 weibo.com
 
 # Remmina
