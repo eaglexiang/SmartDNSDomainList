@@ -4,7 +4,7 @@ bilibili.com
 dingtalk.com
 iqiyi.com
 jianshu.com
-jianshu.org
+jianshu.io
 qq.com
 taobao.org
 weibo.com
